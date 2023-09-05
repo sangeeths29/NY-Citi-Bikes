@@ -1,6 +1,6 @@
 # NYC-Citi-Bikes
 
-This project deals with the data analysis of NYC Citi Bike Rentals. It was completed as part of the five day short data analytics course offered by Career Foundry.
+# This project deals with the data analysis of NYC Citi Bike Rentals. It was completed as part of the five day short data analytics course offered by Career Foundry.
 
 # Important Questions Addressed
 
